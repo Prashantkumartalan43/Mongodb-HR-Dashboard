@@ -138,4 +138,5 @@ Insight: Grievances are notably higher in certain regions, with males reporting 
 
 Managerial Implication: Deploy regional HR representatives to address grievances and investigate underlying issues like working conditions or cultural factors affecting male employees more prominently.
 
+![Mongodb HR Dashboard](https://github.com/user-attachments/assets/f462c61b-4e5d-4b11-91bf-fe5955a2d7b4)
 
