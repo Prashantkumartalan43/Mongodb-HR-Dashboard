@@ -2,7 +2,7 @@
 It contains dashboard analysis for Human Resource data done on Mongodb
 
 ## About Dataset
-The provided HR dataset appears to capture detailed employee-related information and includes various aspects of employee demographics, recruitment, performance, and job satisfaction.
+The HR dataset shows employee-related information and includes various aspects of employee demographics, recruitment, performance, and job satisfaction.
 
 Employee_ID: Unique identifier for each employee.
 
